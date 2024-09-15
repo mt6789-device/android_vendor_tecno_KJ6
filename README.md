@@ -1,1 +1,0 @@
-# android_vendor_tecno_KJ6
